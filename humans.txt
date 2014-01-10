@@ -1,0 +1,14 @@
+/* TEAM */
+Designer & Developer: Quynh Nguyen
+Site: http://nguy0466.site44.com/portfolio/index.html
+Location: Ottawa, Canada
+
+
+/* THANKS */
+Thanks to my awesome teacher Tiffany and my husband. 
+
+/* SITE */
+Last update: 2013/12/11
+Standards: HTML5, CSS3
+Components: Modernizr, Jquery, etc..
+Software: Adobe, Livereload, Aptana Studio
